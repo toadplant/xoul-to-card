@@ -1,0 +1,12 @@
+body {
+  background-color: #212121;
+  font-family: "Montserrat", system-ui;
+
+  @media (max-width: 770px) {
+    font-size: 0.8rem;
+  }
+}
+
+a:link {
+  text-decoration: none;
+}
